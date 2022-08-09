@@ -1,0 +1,21 @@
+{
+  "name": "test-action-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"run test\" && exit 0",
+    "build": "echo \"run build \" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menomik1011/test-action-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menomik1011/test-action-server/issues"
+  },
+  "homepage": "https://github.com/menomik1011/test-action-server#readme"
+}
