@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest src/app.test.js",
-    "build": "echo \"run build \" && exit 0",
-    "start": "node src"
+    "start": "node src",
+    "test": "jest src/app.test.js"
   },
   "repository": {
     "type": "git",
